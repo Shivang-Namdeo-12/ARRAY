@@ -1,3 +1,4 @@
+
 public class TrappingRainWater{
     public static int trappingwater(int height[]){
         int n = height.length;

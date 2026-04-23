@@ -1,3 +1,5 @@
+
+
 public class countoccurance {
   public int[] occurrencesOfElement(int[] nums, int[] queries, int x) {
     int[] ans = new int[queries.length];
